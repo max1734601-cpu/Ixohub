@@ -1,2 +1,0 @@
-# Ixohub
-rivals script
